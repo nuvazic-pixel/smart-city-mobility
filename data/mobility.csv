@@ -1,0 +1,106 @@
+city,lat,lon,hour,day_of_week,day_type,traffic_volume,congestion_pct,station,station_type
+Augsburg,48.3656,10.8854,0,1,weekday,40,14,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,1,1,weekday,30,11,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,2,1,weekday,25,9,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,3,1,weekday,20,7,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,4,1,weekday,35,13,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,5,1,weekday,90,32,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,6,1,weekday,160,57,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,7,1,weekday,230,82,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,8,1,weekday,250,89,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,9,1,weekday,200,71,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,10,1,weekday,150,54,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,11,1,weekday,120,43,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,12,1,weekday,130,46,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,13,1,weekday,140,50,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,14,1,weekday,150,54,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,15,1,weekday,160,57,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,16,1,weekday,210,75,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,17,1,weekday,280,100,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,18,1,weekday,260,93,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,19,1,weekday,200,71,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,20,1,weekday,160,57,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,21,1,weekday,120,43,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,22,1,weekday,90,32,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,23,1,weekday,60,21,Augsburg Hbf,rail
+Augsburg,48.3710,10.8990,0,1,weekday,35,13,Augsburg Mitte,bus
+Augsburg,48.3710,10.8990,7,1,weekday,210,75,Augsburg Mitte,bus
+Augsburg,48.3710,10.8990,8,1,weekday,230,82,Augsburg Mitte,bus
+Augsburg,48.3710,10.8990,17,1,weekday,260,93,Augsburg Mitte,bus
+Augsburg,48.3710,10.8990,18,1,weekday,240,86,Augsburg Mitte,bus
+Augsburg,48.3320,10.8970,7,1,weekday,180,64,Augsburg Uni,tram
+Augsburg,48.3320,10.8970,8,1,weekday,220,79,Augsburg Uni,tram
+Augsburg,48.3320,10.8970,17,1,weekday,200,71,Augsburg Uni,tram
+Augsburg,48.3680,10.8650,7,1,weekday,150,54,Augsburg West,bus
+Augsburg,48.3680,10.8650,8,1,weekday,170,61,Augsburg West,bus
+Augsburg,48.3910,10.9180,7,1,weekday,130,46,Lechhausen,bus
+Augsburg,48.3910,10.9180,8,1,weekday,160,57,Lechhausen,bus
+Munich,48.1402,11.5597,0,1,weekday,80,14,München Hbf,rail
+Munich,48.1402,11.5597,1,1,weekday,60,10,München Hbf,rail
+Munich,48.1402,11.5597,2,1,weekday,50,9,München Hbf,rail
+Munich,48.1402,11.5597,3,1,weekday,45,8,München Hbf,rail
+Munich,48.1402,11.5597,4,1,weekday,70,12,München Hbf,rail
+Munich,48.1402,11.5597,5,1,weekday,180,31,München Hbf,rail
+Munich,48.1402,11.5597,6,1,weekday,320,55,München Hbf,rail
+Munich,48.1402,11.5597,7,1,weekday,480,83,München Hbf,rail
+Munich,48.1402,11.5597,8,1,weekday,550,95,München Hbf,rail
+Munich,48.1402,11.5597,9,1,weekday,520,90,München Hbf,rail
+Munich,48.1402,11.5597,10,1,weekday,320,55,München Hbf,rail
+Munich,48.1402,11.5597,11,1,weekday,260,45,München Hbf,rail
+Munich,48.1402,11.5597,12,1,weekday,280,48,München Hbf,rail
+Munich,48.1402,11.5597,13,1,weekday,290,50,München Hbf,rail
+Munich,48.1402,11.5597,14,1,weekday,310,53,München Hbf,rail
+Munich,48.1402,11.5597,15,1,weekday,330,57,München Hbf,rail
+Munich,48.1402,11.5597,16,1,weekday,430,74,München Hbf,rail
+Munich,48.1402,11.5597,17,1,weekday,580,100,München Hbf,rail
+Munich,48.1402,11.5597,18,1,weekday,540,93,München Hbf,rail
+Munich,48.1402,11.5597,19,1,weekday,420,72,München Hbf,rail
+Munich,48.1402,11.5597,20,1,weekday,330,57,München Hbf,rail
+Munich,48.1402,11.5597,21,1,weekday,240,41,München Hbf,rail
+Munich,48.1402,11.5597,22,1,weekday,180,31,München Hbf,rail
+Munich,48.1402,11.5597,23,1,weekday,110,19,München Hbf,rail
+Munich,48.1374,11.5754,7,1,weekday,420,72,Marienplatz,metro
+Munich,48.1374,11.5754,8,1,weekday,500,86,Marienplatz,metro
+Munich,48.1374,11.5754,17,1,weekday,520,90,Marienplatz,metro
+Munich,48.1277,11.6044,7,1,weekday,350,60,Ostbahnhof,rail
+Munich,48.1277,11.6044,8,1,weekday,410,71,Ostbahnhof,rail
+Munich,48.1341,11.5671,7,1,weekday,300,52,Sendlinger Tor,metro
+Munich,48.1341,11.5671,8,1,weekday,380,66,Sendlinger Tor,metro
+Munich,48.1499,11.4609,7,1,weekday,280,48,Pasing,rail
+Munich,48.1499,11.4609,8,1,weekday,340,59,Pasing,rail
+Augsburg,48.3656,10.8854,0,6,weekend,30,11,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,7,6,weekend,70,25,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,8,6,weekend,120,43,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,9,6,weekend,140,50,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,10,6,weekend,150,54,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,11,6,weekend,155,55,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,12,6,weekend,160,57,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,13,6,weekend,165,59,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,14,6,weekend,160,57,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,15,6,weekend,150,54,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,16,6,weekend,140,50,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,17,6,weekend,130,46,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,18,6,weekend,120,43,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,19,6,weekend,100,36,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,20,6,weekend,90,32,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,21,6,weekend,75,27,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,22,6,weekend,60,21,Augsburg Hbf,rail
+Augsburg,48.3656,10.8854,23,6,weekend,40,14,Augsburg Hbf,rail
+Munich,48.1402,11.5597,0,6,weekend,65,11,München Hbf,rail
+Munich,48.1402,11.5597,7,6,weekend,145,25,München Hbf,rail
+Munich,48.1402,11.5597,8,6,weekend,260,45,München Hbf,rail
+Munich,48.1402,11.5597,9,6,weekend,300,52,München Hbf,rail
+Munich,48.1402,11.5597,10,6,weekend,320,55,München Hbf,rail
+Munich,48.1402,11.5597,11,6,weekend,325,56,München Hbf,rail
+Munich,48.1402,11.5597,12,6,weekend,340,59,München Hbf,rail
+Munich,48.1402,11.5597,13,6,weekend,345,59,München Hbf,rail
+Munich,48.1402,11.5597,14,6,weekend,340,59,München Hbf,rail
+Munich,48.1402,11.5597,15,6,weekend,320,55,München Hbf,rail
+Munich,48.1402,11.5597,16,6,weekend,295,51,München Hbf,rail
+Munich,48.1402,11.5597,17,6,weekend,275,47,München Hbf,rail
+Munich,48.1402,11.5597,18,6,weekend,250,43,München Hbf,rail
+Munich,48.1402,11.5597,19,6,weekend,210,36,München Hbf,rail
+Munich,48.1402,11.5597,20,6,weekend,185,32,München Hbf,rail
+Munich,48.1402,11.5597,21,6,weekend,155,27,München Hbf,rail
+Munich,48.1402,11.5597,22,6,weekend,120,21,München Hbf,rail
+Munich,48.1402,11.5597,23,6,weekend,85,15,München Hbf,rail
