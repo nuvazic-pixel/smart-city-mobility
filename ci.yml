@@ -1,0 +1,45 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.11"
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Smoke test — imports and model
+      run: |
+        python -c "
+        import pandas as pd
+        from src.model import TrafficPredictor
+        from src.utils import get_congestion_label, get_peak_hour
+
+        df = pd.read_csv('data/mobility.csv')
+        p = TrafficPredictor()
+        p.fit(df)
+
+        for city in ['Augsburg', 'Munich']:
+            pred = p.predict(city, 8, 1)
+            label = get_congestion_label(pred, city)
+            print(f'{city} 08:00 Tue → {pred} veh/h  {label}')
+
+        metrics = p.evaluate(df)
+        print(metrics.to_string(index=False))
+        print('All checks passed.')
+        "
